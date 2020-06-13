@@ -1,5 +1,5 @@
 ---
-author: "Adityan Rajendran (AXR180073)"
+author: "Kowshik Raj"
 output: html_document: 
 theme: readable
 toc: yes
